@@ -20,6 +20,6 @@ int main(){
 			M++;
 		}
 	}
-	cout << M << endl;
+	cout << M << endl; //719264
 	return 0;
 }
