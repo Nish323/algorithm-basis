@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-	//入寮k
+	//入力
 	int N;
 	cin >> N;
 	vector<long long> A(N + 1);
